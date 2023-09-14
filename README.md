@@ -26,7 +26,7 @@ Each model will use these data to predict a corrseponding label: 0 (Star), 1 (Ga
 
 **Result**
 
-Support-vector machine was the most successful, with 95% accuracy. The deep neural network outperformed logistic regression 84% accuracy to 77%. And the violin plots reinforced the result of principal component analysis, which was that quasars are most easily distinguishable while stars and galaxies are more similar.
+Support-vector machine was the most successful, with 95% accuracy. The deep neural network outperformed logistic regression 89% accuracy to 79%. And the violin plots reinforced the result of principal component analysis, which was that quasars are most easily distinguishable while stars and galaxies are more similar.
 
 **Further Reading**
 
